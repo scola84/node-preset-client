@@ -1,0 +1,6 @@
+dist/cordova/hooks
+dist/cordova/merges/*/scripts
+dist/cordova/platforms
+dist/cordova/plugins
+dist/cordova/www
+node_modules
